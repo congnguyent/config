@@ -1,3 +1,4 @@
+dev
 server:
   port: ${PORT:8980}
 external:
